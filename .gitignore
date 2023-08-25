@@ -38,3 +38,8 @@ jlink.*
 .vs/
 Debug/
 Release/
+
+!libClearCore/Release
+!LwIP/Release
+!libClearCore/Release/libClearCore.a
+!LwIP/Release/libLwIP.a
